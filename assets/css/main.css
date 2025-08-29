@@ -2587,25 +2587,16 @@ input, select, textarea {
 		}
 
 			.tiles article > .image {
-<<<<<<< HEAD
-				-moz-transition: -moz-transform 0.5s ease;
-				-webkit-transition: -webkit-transform 0.5s ease;
-				-ms-transition: -ms-transform 0.5s ease;
-				transition: transform 0.5s ease;
-=======
 				-moz-transition: -moz-transform 2.5s ease;
 				-webkit-transition: -webkit-transform 2.5s ease;
 				-ms-transition: -ms-transform 2.5s ease;
 				transition: transform 2.5s ease;
->>>>>>> 126f0d8 (updated animation and added dynamic text for each pooja item)
 				position: relative;
 				display: block;
 				width: 100%;
 				border-radius: 4px;
 				overflow: hidden;
 			}
-<<<<<<< HEAD
-=======
 			/*disable blur out animation on mobile */
 			/* Disable blur effects on mobile */
 			@media screen and (max-width: 768px) {
@@ -2628,7 +2619,6 @@ input, select, textarea {
 					opacity: 0; /* Fade out */
 				}
 			}
->>>>>>> 126f0d8 (updated animation and added dynamic text for each pooja item)
 
 				.tiles article > .image img {
 					display: block;
@@ -2674,8 +2664,6 @@ input, select, textarea {
 					z-index: 2;
 				}
 
-<<<<<<< HEAD
-=======
 				/* for mobile device animate block/image as then enter in visible area*/
 				.tiles article > .image:before,
 				.tiles article > .image:after {
@@ -2701,7 +2689,6 @@ input, select, textarea {
 
 
 
->>>>>>> 126f0d8 (updated animation and added dynamic text for each pooja item)
 			.tiles article > a {
 				display: -moz-flex;
 				display: -webkit-flex;
